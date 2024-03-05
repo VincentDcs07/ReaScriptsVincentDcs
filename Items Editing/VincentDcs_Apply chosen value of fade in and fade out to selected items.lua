@@ -1,8 +1,9 @@
- -- @description Apply fade in and fade out to all selected items with chosen value
- -- @author vincentdcs
- -- @version 1.0
- -- @about
- --    This script apply a fade in and fade out to all selected items with a chosen value in gui
+-- @description Apply fade in and fade out to all selected items with chosen value
+-- @author VincentDcs
+-- @version 1.0
+-- @changelog initial release
+-- @about 
+--  This script apply a fade in and fade out to all selected items with a chosen value in gui
 
 -- GET INPUTS FROM USER --
 function inputDatas()

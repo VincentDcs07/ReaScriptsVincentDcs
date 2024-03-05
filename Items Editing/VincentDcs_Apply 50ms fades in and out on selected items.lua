@@ -1,8 +1,8 @@
- -- @description Apply 50ms fade in and fade out to all selected items
- -- @author vincentdcs
- -- @version 1.0
- -- @about
- -- This script applies a 50ms fade in and fade out to all selected items
+-- @description Apply 50ms fade in and fade out to all selected items
+-- @author VincentDcs
+-- @version 1.0
+-- @changelog initial release
+-- @about Applies a 50ms fade in and fade out to all selected items
 
 function main()
 

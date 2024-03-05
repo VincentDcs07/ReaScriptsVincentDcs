@@ -1,6 +1,9 @@
--- @author VincentDcs 
+-- @description Unselect all items on collapsed tracks
+-- @author VincentDcs
 -- @version 1.0
--- Unselect all items on collapsed tracks
+-- @changelog initial release
+-- @about
+--  Unselect all items on collapsed tracks
 
 ------------------------------------------------------------------------------------------------------------
 

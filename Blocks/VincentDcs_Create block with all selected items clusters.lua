@@ -1,7 +1,8 @@
--- @author VincentDcs 
--- Big up gaspard
+-- @description Create a group of items with empty media item name
+-- @author VincentDcs
 -- @version 1.0
--- Create a group of items with empty media item name
+-- @changelog initial release
+-- @about Create a group of items with empty media item name
 
 ------------------------------------------------------------------------------------------------------------
 

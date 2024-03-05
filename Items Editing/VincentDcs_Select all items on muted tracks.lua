@@ -1,6 +1,9 @@
--- @author VincentDcs 
+-- @description Select all items on muted tracks
+-- @author VincentDcs
 -- @version 1.0
--- Select all items on muted tracks
+-- @changelog initial release
+-- @about
+--  Select all items on muted tracks
 
 ------------------------------------------------------------------------------------------------------------
 

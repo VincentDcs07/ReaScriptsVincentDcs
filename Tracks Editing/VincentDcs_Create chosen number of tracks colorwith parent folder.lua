@@ -1,4 +1,8 @@
--- Create track
+-- @description Create chosen number of tracks
+-- @author VincentDcs
+-- @version 1.0
+-- @changelog initial release
+-- @about Create chosen number of tracks
  
 -- Display GUI for user input, tracks, color, name
 function getUserInput()

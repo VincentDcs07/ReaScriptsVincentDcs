@@ -1,5 +1,8 @@
--- VincentDcs
--- Create a group of items with empty media item name
+-- @description Create a group of items with empty media item name
+-- @author VincentDcs
+-- @version 1.0
+-- @changelog initial release
+-- @about Create a group of items with empty media item name
 
 ------------------------------------------------------------------------------------------------------------
 
