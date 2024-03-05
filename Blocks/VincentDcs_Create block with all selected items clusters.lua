@@ -45,7 +45,7 @@ function createNoteItems()
 
       -- LOOP THROUGH TAKE SELECTION
       for i = 0, selected_items_count - 1  do
-        -- GET ITEMS AND TAKES AND PARENT TRACK
+        -- GET ITEMS AND TAKES AND PARENT TRACK --
         item = setSelectedMediaItem[i] -- Get selected item i
 
         -- TIMES
