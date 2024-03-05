@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaScriptsVincentDcs" commit="81ec10bb59e85cafd6eeb1690c7527eed43ed62e">
+<index version="1" name="ReaScriptsVincentDcs" commit="85353861690f3819e8aa280dd1c185fc5e9a051d">
   <category name="Blocks">
-    <reapack name="VincentDcs_Create block with all selected items clusters.lua" type="script" desc="Create a group of items with empty media item name">
+    <reapack name="VincentDcs_Create block with all selected items clusters.lua" type="script" desc="Create block with all selected items clusters">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -15,7 +15,7 @@
         <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/c9e3ee5fa8fd6fdcfa77aed0b28f5e7ccdda8182/Blocks/VincentDcs_Create%20block%20with%20all%20selected%20items%20clusters.lua</source>
       </version>
     </reapack>
-    <reapack name="VincentDcs_Create block with all selected items.lua" type="script" desc="Create a group of items with empty media item name">
+    <reapack name="VincentDcs_Create block with all selected items.lua" type="script" desc="Create block with all selected items">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
