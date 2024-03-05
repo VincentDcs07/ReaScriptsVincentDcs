@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaScriptsVincentDcs" commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
-  <category name="Example">
+<index version="1" name="ReaScriptsVincentDcs" commit="c9e3ee5fa8fd6fdcfa77aed0b28f5e7ccdda8182">
+  <category name="Blocks">
+    <reapack name="VincentDcs_Create block with all selected items clusters.lua" type="script">
+      <version name="1.0" author="VincentDcs" time="2024-03-05T15:10:21Z">
+        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/c9e3ee5fa8fd6fdcfa77aed0b28f5e7ccdda8182/Blocks/VincentDcs_Create%20block%20with%20all%20selected%20items%20clusters.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Items Editing">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
@@ -16,8 +23,32 @@ Markdown
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+      <version name="1.0" author="cfillion" time="2024-03-05T15:10:21Z">
+        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/c9e3ee5fa8fd6fdcfa77aed0b28f5e7ccdda8182/Items%20Editing/cfillion_Hello%20world.lua</source>
+      </version>
+    </reapack>
+    <reapack name="VincentDcs_Apply chosen value of fade in and fade out to selected items.lua" type="script" desc="Apply fade in and fade out to all selected items with chosen value">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script apply a fade in and fade out to all selected items with a chosen value in gui\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="vincentdcs" time="2024-03-05T15:10:21Z">
+        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/c9e3ee5fa8fd6fdcfa77aed0b28f5e7ccdda8182/Items%20Editing/VincentDcs_Apply%20chosen%20value%20of%20fade%20in%20and%20fade%20out%20to%20selected%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="VincentDcs_Select all items on muted tracks.lua" type="script">
+      <version name="1.0" author="VincentDcs" time="2024-03-05T15:10:21Z">
+        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/c9e3ee5fa8fd6fdcfa77aed0b28f5e7ccdda8182/Items%20Editing/VincentDcs_Select%20all%20items%20on%20muted%20tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="VincentDcs_Unselect items on collapsed tracks.lua" type="script">
+      <version name="1.0" author="VincentDcs" time="2024-03-05T15:10:21Z">
+        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/c9e3ee5fa8fd6fdcfa77aed0b28f5e7ccdda8182/Items%20Editing/VincentDcs_Unselect%20items%20on%20collapsed%20tracks.lua</source>
       </version>
     </reapack>
   </category>
