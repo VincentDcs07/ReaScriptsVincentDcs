@@ -1,4 +1,4 @@
--- @description Create a group of items with empty media item name
+-- @description Create block with all selected items
 -- @author VincentDcs
 -- @version 1.0
 -- @changelog initial release
