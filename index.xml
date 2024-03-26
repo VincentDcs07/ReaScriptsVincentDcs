@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaScriptsVincentDcs" commit="d4c8203c6ff3e1bcd905557a7a9af22d9088cffb">
+<index version="1" name="ReaScriptsVincentDcs" commit="3dcdead217caa715aa04a2705eb8ab20a5a7a713">
   <category name="Blocks">
-    <reapack name="VincentDcs_Create block with all selected items clusters.lua" type="script" desc="Create block with all selected items clusters">
+    <reapack name="VincentDcs_Create block with all selected items clusters in each parent folder.lua" type="script" desc="Create block with all selected items clusters in each parent folder">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 Create a group of items with empty media item name\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Create multiple groups from selected media items clusters with note item named from parent track in every parent folder\par}
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="VincentDcs" time="2024-03-06T08:41:45Z">
+      <version name="1.0" author="VincentDcs" time="2024-03-26T11:09:48Z">
         <changelog><![CDATA[initial release]]></changelog>
-        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/8f014dbdfbe669a04855fa567ac3b8de339a90bb/Blocks/VincentDcs_Create%20block%20with%20all%20selected%20items%20clusters.lua</source>
+        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/3dcdead217caa715aa04a2705eb8ab20a5a7a713/Blocks/VincentDcs_Create%20block%20with%20all%20selected%20items%20clusters%20in%20each%20parent%20folder.lua</source>
       </version>
     </reapack>
     <reapack name="VincentDcs_Create block with all selected items.lua" type="script" desc="Create block with all selected items">
