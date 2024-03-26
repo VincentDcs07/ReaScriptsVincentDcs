@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaScriptsVincentDcs" commit="3dcdead217caa715aa04a2705eb8ab20a5a7a713">
+<index version="1" name="ReaScriptsVincentDcs" commit="5abe19ce481bbb0b82f9433e72f32cee5647fbe4">
   <category name="Blocks">
     <reapack name="VincentDcs_Create block with all selected items clusters in each parent folder.lua" type="script" desc="Create block with all selected items clusters in each parent folder">
       <metadata>
@@ -14,21 +14,6 @@
       <version name="1.0" author="VincentDcs" time="2024-03-26T11:09:48Z">
         <changelog><![CDATA[initial release]]></changelog>
         <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/3dcdead217caa715aa04a2705eb8ab20a5a7a713/Blocks/VincentDcs_Create%20block%20with%20all%20selected%20items%20clusters%20in%20each%20parent%20folder.lua</source>
-      </version>
-    </reapack>
-    <reapack name="VincentDcs_Create block with all selected items.lua" type="script" desc="Create block with all selected items">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 Create a group of items with empty media item name\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0" author="VincentDcs" time="2024-03-06T08:50:16Z">
-        <changelog><![CDATA[initial release]]></changelog>
-        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/d4c8203c6ff3e1bcd905557a7a9af22d9088cffb/Blocks/VincentDcs_Create%20block%20with%20all%20selected%20items.lua</source>
       </version>
     </reapack>
   </category>
@@ -95,7 +80,7 @@
     </reapack>
   </category>
   <category name="Tracks Editing">
-    <reapack name="VincentDcs_Create chosen number of tracks colorwith parent folder.lua" type="script" desc="Create chosen number of tracks">
+    <reapack name="VincentDcs_Create and name a parent track with chosen number of children.lua" type="script" desc="Create chosen number of tracks">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -105,9 +90,9 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="VincentDcs" time="2024-03-06T08:50:16Z">
+      <version name="1.0" author="VincentDcs" time="2024-03-26T11:32:21Z">
         <changelog><![CDATA[initial release]]></changelog>
-        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/d4c8203c6ff3e1bcd905557a7a9af22d9088cffb/Tracks%20Editing/VincentDcs_Create%20chosen%20number%20of%20tracks%20colorwith%20parent%20folder.lua</source>
+        <source main="main">https://github.com/VincentDcs07/ReaScriptsVincentDcs/raw/5abe19ce481bbb0b82f9433e72f32cee5647fbe4/Tracks%20Editing/VincentDcs_Create%20and%20name%20a%20parent%20track%20with%20chosen%20number%20of%20children.lua</source>
       </version>
     </reapack>
   </category>
